@@ -1,2 +1,2 @@
 # linear-regression
-gradient decisent
+gradientdescent
